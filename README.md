@@ -1,7 +1,8 @@
 # Compucorp-Senior-QA-Online-Task
-Author: Khushbu Patel
-Start Date: 15/02/2017
-Description: ReadMe for Project/Assignment
+
+###Author: Khushbu Patel
+###Start Date: 15/02/2017
+###Description: ReadMe for Project/Assignment
 
 # Project Contents
 1. ReadME.txt - contains instructions and description regarding all files required to review for this project.
