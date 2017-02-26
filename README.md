@@ -1,1 +1,0 @@
-# Compucorp-Senior-QA-Online-Task
